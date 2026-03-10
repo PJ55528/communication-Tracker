@@ -1,0 +1,37 @@
+{
+  "student": "Avishkar Rawal",
+  "session": "final",
+  "speech_features": {
+    "total_words": 1363,
+    "duration_seconds": 1745.07,
+    "speaking_rate_wpm": 46.863449603740825,
+    "filler_word_count": 84,
+    "filler_word_ratio": 0.061628760088041086,
+    "vocabulary_diversity_ttr": 0.3602347762289068,
+    "average_sentence_length": 8.113095238095237
+  },
+  "audio_features": {
+    "pitch_mean_hz": 184.56017454935227,
+    "pitch_std_hz": 65.86047706398854,
+    "pitch_range_hz": 321.01778656126487,
+    "energy_mean": 0.00708790635690093,
+    "energy_std": 0.009471465833485126,
+    "zero_crossing_rate_mean": 0.07913219776017966,
+    "spectral_centroid_mean_hz": 1404.2686068603766,
+    "mfcc_means": [
+      -458.7027893066406,
+      84.8415756225586,
+      26.626171112060547,
+      17.4693546295166,
+      12.327641487121582,
+      11.038890838623047,
+      5.453080654144287,
+      1.7205530405044556,
+      -0.5138248205184937,
+      -4.627292156219482,
+      -4.913985252380371,
+      -6.648624897003174,
+      -5.591933250427246
+    ]
+  }
+}
